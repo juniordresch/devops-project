@@ -78,7 +78,7 @@ app.get('/', (req, res) => {
 
     <body>
       <div class="container">
-        <h1>Projeto DevOps 🚀</h1>
+        <h1>Projeto</h1>
 
         <p>
           CI/CD com GitHub Actions + Docker + Azure
